@@ -1,0 +1,32 @@
+body {
+  background: rgb(245, 245, 245);
+}
+
+h1 {
+  font-family: sans-serif;
+  color: red;
+  font-weight: lighter;
+  font-size: 30px;
+}
+
+#banner {
+  background-image: url('https://source.unsplash.com/random/1000x600');
+  background-size: cover;
+  padding: 150px;
+}
+
+#banner h1 {
+  color: white;
+  font-size: 50px;
+  font-family: Helvetica;
+}
+
+.card {
+  margin-top: 30px;
+  background: rgb(245, 245, 245);
+  border: none;
+}
+
+.card img {
+  margin: 0 auto;
+}
